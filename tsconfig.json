@@ -6,5 +6,12 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/challenge-like/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/challenge-like/tsconfig.spec.json"
+    }
+]
 }
